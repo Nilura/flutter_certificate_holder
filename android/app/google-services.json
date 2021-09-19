@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "345344835493",
+    "firebase_url": "https://blogapp-fd3c2-default-rtdb.firebaseio.com",
+    "project_id": "blogapp-fd3c2",
+    "storage_bucket": "blogapp-fd3c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345344835493:android:ef7b913e0220f927ebf24c",
+        "android_client_info": {
+          "package_name": "com.flutter.firebase.example.firebasestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345344835493-skbag5dsju6apbboq218jp14hc08q5tv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjybw8jVgIjARzwytSYDpo0D4dmiO1n-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "345344835493-skbag5dsju6apbboq218jp14hc08q5tv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
